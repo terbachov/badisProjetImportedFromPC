@@ -1,0 +1,8 @@
+banane
+pomme
+raisin
+orange
+poire
+fraise
+cerise
+mangue
